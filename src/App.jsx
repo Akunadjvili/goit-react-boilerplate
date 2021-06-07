@@ -1,7 +1,5 @@
 import React from 'react';
 
-import './App.module.css';
-
 import Test from './components/Test/Test';
 
 const App = () => {
